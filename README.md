@@ -2,4 +2,4 @@
 
 ## 🧾 About me
 
-Hi! I'm Eras, a self-taught 3D artist and developer working on improving my skills in defi, smart contract development and anything else that takes my interest.
+Hi! I'm Eras, a self-taught developer and 3D artist working on improving my skills in smart contract development, defi and anything else that takes my interest.
